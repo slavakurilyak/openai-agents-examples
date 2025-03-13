@@ -11,7 +11,7 @@ These examples demonstrate how agents can help with developing, researching, and
 An agent that researches the latest developments in AI agents and autonomous systems using the WebSearchTool.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="diagrams/web_search_diagram_dark">
+  <source media="(prefers-color-scheme: dark)" srcset="diagrams/web_search_diagram_dark.svg">
   <img src="diagrams/web_search_diagram_light.svg" alt="Search Agent Diagram">
 </picture>
 
@@ -32,7 +32,7 @@ An agent that researches the latest developments in AI agents and autonomous sys
 An agent that helps developers find relevant agent patterns and code examples using the FileSearchTool.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="diagrams/file_search_diagram_dark">
+  <source media="(prefers-color-scheme: dark)" srcset="diagrams/file_search_diagram_dark.svg">
   <img src="diagrams/file_search_diagram_light.svg" alt="File Search Agent Diagram">
 </picture>
 
@@ -53,7 +53,7 @@ An agent that helps developers find relevant agent patterns and code examples us
 An agent that sets up and configures an agent development environment using the ComputerTool.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="diagrams/computer_use_diagram_dark">
+  <source media="(prefers-color-scheme: dark)" srcset="diagrams/computer_use_diagram_dark.svg">
   <img src="diagrams/computer_use_diagram_light.svg" alt="Search Agent Diagram">
 </picture>
 
